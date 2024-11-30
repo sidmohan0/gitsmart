@@ -5,6 +5,12 @@
 
 GitSmart is an AI-powered GitHub PR review assistant that helps you analyze and understand pull requests more effectively.
 
+<p align="center">
+  <a href="https://youtu.be/lgWR2QTmFzA">
+    <img src="https://img.youtube.com/vi/lgWR2QTmFzA/maxresdefault.jpg" alt="GitSmart Demo Video" width="600">
+  </a>
+</p>
+
 ## Features
 
 - 🔍 Instant PR analysis with AI-generated insights
